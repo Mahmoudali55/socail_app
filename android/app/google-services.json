@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066707130661",
+    "project_id": "tawsal-app",
+    "storage_bucket": "tawsal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066707130661:android:9f50015267372074ba22cc",
+        "android_client_info": {
+          "package_name": "com.amr.templet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP1YfXO3Rq_WRwuhyTJERyV32cWdqYif8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066707130661:android:1dfe5056f27d5fc6ba22cc",
+        "android_client_info": {
+          "package_name": "com.example.tawsoel_socialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP1YfXO3Rq_WRwuhyTJERyV32cWdqYif8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
